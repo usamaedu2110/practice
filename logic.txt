@@ -1,1 +1,1 @@
-"Logic V2: Added more detailed Information" 
+"Logic V3:Third Version" 
